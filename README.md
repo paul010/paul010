@@ -22,7 +22,7 @@ I turn AI experiments into reusable skills, creative workflows, and visual stori
     <img src="assets/dalei-broll/dalei-broll-demo.gif" width="360" alt="Dalei B-roll：面具后的自我被拥抱，半调纸拼贴动画">
   </a>
   <br>
-  <sub>点击动图观看 5 秒高清无声 MP4</sub>
+  <sub>点击动图观看 5 秒高清 MP4（保留原始音轨）</sub>
 </div>
 
 ### 这不是一次 Prompt 抽奖
@@ -37,7 +37,7 @@ I turn AI experiments into reusable skills, creative workflows, and visual stori
 |:---:|---|---|
 | **01 · Metaphor** | 观众真正应该看懂什么？ | 一个清晰的视觉命题 |
 | **02 · Still** | 隐喻、构图和纸张质感是否成立？ | 可确认的 9:16 拼贴静帧 |
-| **03 · Motion** | 元素是否从空场逐件组装，而不是简单 Zoom？ | 5 秒无声 B-roll + 完整 QA |
+| **03 · Motion** | 元素是否从空场逐件组装，而不是简单 Zoom？ | 5 秒 B-roll + 原始音轨 + 完整 QA |
 
 ### From still to motion
 
@@ -53,7 +53,7 @@ I turn AI experiments into reusable skills, creative workflows, and visual stori
       <h4>视觉语言</h4>
       <p>深紫纯色纸场 × 黑白 Halftone × 红蓝卡纸 × 奶油白裁边。</p>
       <h4>交付规格</h4>
-      <p><code>9:16</code> · <code>720×1280</code> · <code>24fps</code> · <code>5s</code> · <code>No Audio</code></p>
+      <p><code>9:16</code> · <code>720×1280</code> · <code>24fps</code> · <code>5s</code> · <code>Original Audio</code></p>
       <p>
         <a href="https://github.com/paul010/daleibroll"><b>Explore the Skill →</b></a><br>
         <a href="assets/dalei-broll/dalei-broll-demo.mp4"><b>Watch the MP4 →</b></a>
