@@ -13,6 +13,27 @@ I turn AI experiments into reusable skills, creative workflows, and visual stori
 
 ---
 
+## 🐾 大雷的 Kindle 小窗口
+
+把闲置的 Kindle 第八代改成桌面看板：抬头看看天气、Codex 用量，再读一句晨跑鼓励。
+
+<div align="center">
+  <a href="https://github.com/paul010/kindledalei2025">
+    <img src="https://raw.githubusercontent.com/paul010/kindledalei2025/main/docs/images/kindle-beiguo-in-use.jpg?v=privacy1" width="420" alt="大雷的 Kindle 实拍：天气、晨跑鼓励、贝果猫咪与 Codex 用量">
+  </a>
+  <br>
+  <sub>真实 Kindle 墨水屏上的效果 · 贝果正在值班</sub>
+</div>
+
+- **天气与晨跑**：城市天气、每 5 分钟轮换的晨跑鼓励。
+- **AI 用量**：Codex / Spark 额度、最近日 Token 和累计用量的书本类比。
+- **三只猫轮流陪伴**：国庆、贝果、点点大哥，照着自家猫咪做的专属动作。
+- **旧设备的新日常**：Mac 生成黑白图片，Kindle 通过局域网定时显示。
+
+[**查看项目与源码 →**](https://github.com/paul010/kindledalei2025) · [**安装与运行 →**](https://github.com/paul010/kindledalei2025#安装与运行)
+
+---
+
 ## 🎬 Featured Build — Dalei B-roll
 
 > 蜘蛛侠可以拯救整座城市，却要到最后才学会拥抱面具后的彼得·帕克。
@@ -82,6 +103,7 @@ I turn AI experiments into reusable skills, creative workflows, and visual stori
 
 ## 🚧 Currently Exploring
 
+- [**Kindle 小窗口**](https://github.com/paul010/kindledalei2025) — 天气、晨跑、猫咪与 AI 用量的墨水屏看板
 - [**Dalei B-roll**](https://github.com/paul010/daleibroll) — 半调纸拼贴 B-roll 的三闸门 Agent Skill
 - [**大雷早上好**](https://github.com/paul010/dalei-youtube) — AI 实践频道的提示词、工具与深度笔记
 
