@@ -34,6 +34,26 @@ I turn AI experiments into reusable skills, creative workflows, and visual stori
 
 ---
 
+## 🗺️ 山海旅顺 · 3D 互动地图
+
+把旅顺口的海岸、山地和历史地标做成一座可以旋转、缩放和飞行浏览的 Three.js 沙盘。
+
+<div align="center">
+  <a href="https://dailycosmos.net/lvshun">
+    <img src="https://raw.githubusercontent.com/paul010/gemini-kinetic-particles/main/public/lvshun-cover-1200.webp" width="720" alt="山海旅顺三维互动地图">
+  </a>
+  <br>
+  <sub>白玉山、旅顺军港、老虎尾、太阳沟、203 高地与老铁山</sub>
+</div>
+
+- **十处地标**：从白玉山俯瞰军港，再沿海岸飞到老铁山。
+- **三种光线**：昼景、日落和夜景可以实时切换。
+- **自由探索**：拖动旋转、滚轮缩放，也可以点击地标自动飞行。
+
+[**打开互动地图 →**](https://dailycosmos.net/lvshun) · [**查看源码 →**](https://github.com/paul010/gemini-kinetic-particles/tree/main/lvshun)
+
+---
+
 ## 🎬 Featured Build — Dalei B-roll
 
 > 蜘蛛侠可以拯救整座城市，却要到最后才学会拥抱面具后的彼得·帕克。
@@ -104,6 +124,7 @@ I turn AI experiments into reusable skills, creative workflows, and visual stori
 ## 🚧 Currently Exploring
 
 - [**Kindle 小窗口**](https://github.com/paul010/kindledalei2025) — 天气、晨跑、猫咪与 AI 用量的墨水屏看板
+- [**山海旅顺**](https://dailycosmos.net/lvshun) — 可旋转、缩放和飞行浏览的旅顺口三维互动地图
 - [**Dalei B-roll**](https://github.com/paul010/daleibroll) — 半调纸拼贴 B-roll 的三闸门 Agent Skill
 - [**大雷早上好**](https://github.com/paul010/dalei-youtube) — AI 实践频道的提示词、工具与深度笔记
 
