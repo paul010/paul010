@@ -9,6 +9,8 @@ I turn AI experiments into reusable skills, creative workflows, and visual stori
 [![Dalei YouTube](https://img.shields.io/badge/大雷早上好-AI%20实践频道-FF0033?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/paul010/dalei-youtube)
 [![Dalei B-roll](https://img.shields.io/badge/Dalei_B--roll-Agent_Skill-6C3CCF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paul010/daleibroll)
 [![AI Passport 2026](https://img.shields.io/badge/AI_Passport_2026-Open_Source-087EA4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paul010/aipassword2026)
+[![Buy Me a Coffee](https://img.shields.io/badge/请大雷喝杯咖啡-支持创作-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=111111)](https://buymeacoffee.com/dalei)
+[![YouTube Membership](https://img.shields.io/badge/加入_YouTube_会员-长期支持-FF0033?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCk9tu0mFtXj_rOEfIncxuJQ/join)
 
 </div>
 
@@ -140,6 +142,15 @@ I turn AI experiments into reusable skills, creative workflows, and visual stori
 - **Agent Skills** — 把一次成功，沉淀成下一次可以直接调用的能力
 - **AI Video Workflows** — 从脚本、视觉隐喻到可验证的最终成片
 - **Creative Systems** — 在审美判断和自动执行之间设计清晰闸门
+
+## ☕ Support My Work · 支持我的创作
+
+如果这些开源项目、视频或实战笔记对你有帮助，可以选择适合你的方式支持：
+
+- [**请我喝杯咖啡**](https://buymeacoffee.com/dalei) — 一次性的轻量支持
+- [**加入 YouTube 频道会员**](https://www.youtube.com/channel/UCk9tu0mFtXj_rOEfIncxuJQ/join) — 持续支持「大雷早上好」的创作
+
+感谢每一份支持。我会继续把真实跑通的方法、开源项目和踩坑经验分享出来。
 
 ## 🚧 Currently Exploring
 
