@@ -8,7 +8,28 @@ I turn AI experiments into reusable skills, creative workflows, and visual stori
 
 [![Dalei YouTube](https://img.shields.io/badge/大雷早上好-AI%20实践频道-FF0033?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/paul010/dalei-youtube)
 [![Dalei B-roll](https://img.shields.io/badge/Dalei_B--roll-Agent_Skill-6C3CCF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paul010/daleibroll)
+[![AI Passport 2026](https://img.shields.io/badge/AI_Passport_2026-Open_Source-087EA4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paul010/aipassword2026)
 
+</div>
+
+---
+
+## 🪪 Latest Build — AI Passport 2026
+
+这是我的第三个开源项目：把一张可穿戴 AI Passport 做成自己的数字身份主页，
+同时保留一个可以不断加入新玩法的 App 入口。现在首个 App 是 AB-731 离线练习，
+可以随身答题、查看解析、重练错题。
+
+<div align="center">
+  <a href="https://github.com/paul010/aipassword2026">
+    <img src="https://raw.githubusercontent.com/paul010/aipassword2026/main/assets/screenshots/ai-passport-wearable-view.jpg" width="420" alt="AI Passport 2026 真机运行画面">
+  </a>
+  <br>
+  <sub>真实设备运行：个人身份首页 + 可选择的 AB-731 学习 App</sub>
+  <br><br>
+  <a href="https://github.com/paul010/aipassword2026"><b>查看项目 →</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/paul010/aipassword2026/releases/tag/v1.0.1-ai-passport-ab731"><b>下载固件 →</b></a>
 </div>
 
 ---
@@ -51,7 +72,6 @@ I turn AI experiments into reusable skills, creative workflows, and visual stori
 - **自由探索**：拖动旋转、滚轮缩放，也可以点击地标自动飞行。
 
 [**打开互动地图 →**](https://dailycosmos.net/lvshun) · [**查看源码 →**](https://github.com/paul010/gemini-kinetic-particles/tree/main/lvshun)
-
 ---
 
 ## 🎬 Featured Build — Dalei B-roll
@@ -123,6 +143,7 @@ I turn AI experiments into reusable skills, creative workflows, and visual stori
 
 ## 🚧 Currently Exploring
 
+- [**AI Passport 2026**](https://github.com/paul010/aipassword2026) — 我的第三个开源项目：个人数字身份主页与 AB-731 随身练习
 - [**Kindle 小窗口**](https://github.com/paul010/kindledalei2025) — 天气、晨跑、猫咪与 AI 用量的墨水屏看板
 - [**山海旅顺**](https://dailycosmos.net/lvshun) — 可旋转、缩放和飞行浏览的旅顺口三维互动地图
 - [**Dalei B-roll**](https://github.com/paul010/daleibroll) — 半调纸拼贴 B-roll 的三闸门 Agent Skill
